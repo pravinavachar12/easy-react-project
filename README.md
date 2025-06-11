@@ -1,4 +1,4 @@
-## 🚀 Hello Name Application
+##  **Project 1** - 🚀 Hello Name Application
 
 A simple and interactive web application that dynamically greets users by their name. Built using **HTML**, **CSS**, and **JavaScript**, this app allows users to enter their name, which updates the page with a personalized greeting in real-time.
 
@@ -16,10 +16,21 @@ A simple and interactive web application that dynamically greets users by their 
 - JavaScript (Vanilla) – DOM manipulation and interactivity  
 
 ## 📦 How to Run Locally
-- Clone the Repository
-- Navigate to the Project Folder
-- Open in Browser
+- Clone the Repository :- 
+  *https://github.com/pravinavachar12/easy-mern-project.git*
+- Navigate to the Project Folder :- 
+  cd *name of the folder* 
+- Open in Browser :- 
    *Simply open index.html in your browser.*
+
+## 👨‍💻 Author
+Pravin Avachar
+Connect with me on 
+- LinkedIn : [linkedin](https://www.linkedin.com/in/pravin-avachar-aab999320/)
+- GitHub: [@pravinavachar12](https://github.com/pravinavachar12)
+
+## 📃 License
+This project is open-source and available under the [MIT License](LICENSE).
 
 
 
