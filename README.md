@@ -1,2 +1,3 @@
-# easy-react-project
-react project made for understanding 
+# easy-mern-project
+mern project made for fun
+
