@@ -62,6 +62,50 @@ A stylish and responsive email validation tool that provides real-time feedback 
 
 ### Live :- [📧 Email Validation Form](https://easy-mern-project-u17u.vercel.app/)
 
+## **Project 6** – 🔢 Prime Number Checker
+
+A clean and interactive tool that checks whether a given number is prime or not. Built using **HTML**, **CSS**, and **JavaScript**, this app offers instant feedback with a smooth and responsive design.
+
+### ✨ Features
+- Instantly checks if a number is prime with one click.
+- Clear error message for invalid or empty inputs.
+- Color-coded feedback:
+✅ Green text for prime numbers.
+❌ Red text for non-primes or invalid entries.
+- Smooth, centered layout with elegant box-shadow and rounded corners.
+- Fully responsive design for desktop and mobile devices.
+
+### Live :- [🔢 Prime Number Checker](https://easy-mern-project-u17u.vercel.app/)
+
+## **Project 7** – 👁️‍🗨️ Hide & Show Password Toggle
+
+A modern and intuitive password visibility toggle built using **HTML**, **CSS**, and **JavaScript**. This mini utility enhances user experience by letting users easily view or hide their entered password.
+
+### ✨ Features
+- Toggle password visibility with a single click.
+- Uses Font Awesome icons for dynamic eye 👁️ and eye-slash 👁️‍🗨️ effects.
+- Smooth and stylish input design with a clean white card over a deep purple background. 
+- Responsive layout that adapts to different screen sizes.
+- Secure input handling using JavaScript to switch between "password" and "text" types.
+
+### Live :- [👁️‍🗨️ Hide & Show Password Toggle](https://easy-mern-project-1tfw.vercel.app/)
+
+## **Project 8** – 🔢 Counter Application
+
+An elegant and animated counter app that lets users increase, decrease, or reset a value. Built using **HTML**, **CSS**, and **JavaScript**, this project is a great example of DOM manipulation and UI transitions.
+
+### ✨ Features
+- Three intuitive actions: ➕ Increase, ➖ Decrease, and 🔁 Reset.
+- Color-coded value updates:
+✅ Green for positive numbers.
+❌ Red for negatives.
+- 🔵 Blue for neutral (zero).
+- Smooth animation on page load using CSS keyframes.
+- Responsive layout centered on the screen with modern box shadow and rounded design.
+- Clean hover effect and styling on all buttons using smooth transitions.
+
+### Live :- [🔢 Counter Application](https://easy-mern-project-owsb.vercel.app/)
+
 ### 🛠️ Tech Stack
 - HTML5 – Page structure
 - CSS3 – Styling and layout
