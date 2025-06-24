@@ -106,6 +106,19 @@ An elegant and animated counter app that lets users increase, decrease, or reset
 
 ### Live :- [🔢 Counter Application](https://easy-mern-project-owsb.vercel.app/)
 
+## **Project 9** – 🔁 Palindrome Checker
+
+A minimalistic and user-friendly tool to check whether a word or phrase is a palindrome. Built using **HTML**, **CSS**, and **JavaScript**, this app provides instant results with a smooth fade-in animation.
+
+### ✨ Features
+- Checks if the entered word or phrase is a palindrome (case-insensitive and punctuation-free).
+- Instant result displayed with a clean fade-in animation.
+- Smart input handling — removes special characters and spaces for accurate checking.
+- Styled with a modern card layout, shadowed container, and interactive hover effects.
+- Fully responsive and centered layout for desktop and mobile screens.
+
+### Live :- [🔁 Palindrome Checker](https://easy-mern-project-nake.vercel.app/)
+
 ### 🛠️ Tech Stack
 - HTML5 – Page structure
 - CSS3 – Styling and layout
