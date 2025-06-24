@@ -130,7 +130,7 @@ A simple yet effective tool that displays the Unicode value of any character you
 - Sleek, responsive card layout with soft shadows and vibrant button colors.
 - Interactive UI with hover effects and focus highlights.
 
-### Live :- [🔤 Unicode Character Detector]()
+### Live :- [🔤 Unicode Character Detector](https://easy-mern-project-m622.vercel.app/)
 
 ### 🛠️ Tech Stack
 - HTML5 – Page structure
