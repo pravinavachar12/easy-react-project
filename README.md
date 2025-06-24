@@ -119,6 +119,19 @@ A minimalistic and user-friendly tool to check whether a word or phrase is a pal
 
 ### Live :- [🔁 Palindrome Checker](https://easy-mern-project-nake.vercel.app/)
 
+## **Project 10** – 🔤 Unicode Character Detector
+
+A simple yet effective tool that displays the Unicode value of any character you enter. Built using **HTML**, **CSS**, and **JavaScript**, this project gives users instant feedback with a beautifully styled interface.
+
+### ✨ Features
+- Detects and displays the Unicode value of a single character.
+- Input field limited to 1 character to avoid confusion.
+- Shows helpful messages if input is missing or invalid.
+- Sleek, responsive card layout with soft shadows and vibrant button colors.
+- Interactive UI with hover effects and focus highlights.
+
+### Live :- [🔤 Unicode Character Detector]()
+
 ### 🛠️ Tech Stack
 - HTML5 – Page structure
 - CSS3 – Styling and layout
