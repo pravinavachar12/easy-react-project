@@ -75,7 +75,7 @@ A clean and interactive tool that checks whether a given number is prime or not.
 - Smooth, centered layout with elegant box-shadow and rounded corners.
 - Fully responsive design for desktop and mobile devices.
 
-### Live :- [🔢 Prime Number Checker](https://easy-mern-project-u17u.vercel.app/)
+### Live :- [🔢 Prime Number Checker](https://easy-mern-project-bo2x.vercel.app/)
 
 ## **Project 7** – 👁️‍🗨️ Hide & Show Password Toggle
 
